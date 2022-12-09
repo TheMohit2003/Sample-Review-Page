@@ -1,0 +1,119 @@
+.container{
+  padding-top: 90px;
+  padding-left:20px;
+  padding-right:20px;
+}
+
+h1{
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 900;
+  width: 350px;
+  font-size: 3rem;
+  line-height: 1;
+  margin-bottom: 40px;
+  color: hsl(300, 43%, 22%);
+}
+
+p{
+    font-family: 'League Spartan', sans-serif;
+    line-height: 1.4;
+}
+
+/* left side ka paragraph */
+#box1{
+  font-family: 'League Spartan', sans-serif;
+  line-height: 1.4;
+  width: 400px
+}
+
+/* this section is for rating bars */
+
+.rating{
+  height: 65px;
+  text-align: center;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 12px;
+}
+
+.rec1{
+  margin-top: 25px;
+  width: 450px
+
+}
+
+.rec2{
+margin-top:20px;
+margin-bottom: 20px;
+width: 450px;
+margin-left: 40px;
+}
+
+.rec3{
+width: 450px;
+margin-left: 80px;
+}
+
+.pp{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'League Spartan', sans-serif;
+  color: hsl(300, 43%, 22%);
+  font-weight: 900;
+}
+
+/* testimonial section*/
+
+.square1{
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  height: 220px;
+  width: 400px;
+  margin-right: 25px;
+}
+
+.square2{
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  height: 220px;
+  width: 400px;
+  margin-right: 25px;
+  margin-top: 20px;
+}
+
+.square3{
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  height: 220px;
+  width: 400px;
+  margin-top: 40px;
+}
+
+img{
+   border-radius: 100px;
+   padding:15px;
+   float: left;
+ }
+
+ h5{
+   padding: 30px;
+   font-family: 'League Spartan', sans-serif;
+   font-size: 15px;
+   color: hsl(300, 24%, 96%);
+   padding-bottom: 0px;
+    margin-bottom: 0px;
+ }
+
+ .Verified-buyer{
+   color:hsl(333, 80%, 67%);
+ }
+
+#yep{
+  color: hsl(300, 24%, 96%);
+  margin-top: 40px;
+  margin-left: 22px;
+
+}
+
+.nd{
+ margin-top: 5px
+}
